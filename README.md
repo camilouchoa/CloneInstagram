@@ -18,6 +18,5 @@
   *  justify;
   * display;
   * flex direction
-* Conceitos de responsividade;
-* Utilização de scripts externos ao site (Font Awesome (javascript), Owl (jquery)).
+
 
